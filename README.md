@@ -1,16 +1,38 @@
-### Hi there 👋
+# 👋Hola soy Karoline Mogollón :purple_heart:
+----
+## Estudiante tecnóloga de Analisis y desarrollo de sistemas de información (ADSI) en el sena. 
 
-<!--
-**Karomogo26/Karomogo26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente empecé el ✨ _Bootcamp de JavaScrip Full-Stack_ ✨ en [Undefined Academy](https://github.com/undefined-academy), también me dedico a profundizar mi conocimiento en los siguientes lenguajes de programación.
 
-Here are some ideas to get you started:
+- JavaScrip 
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una persona  autodidacta, me apasiona la **tecnología**, la **programación** y la **ciberseguridad**:sunglasses:.
+
+Mis pasatiempos son:
+escuchar musica :notes:, ver pelis :movie_camera:, leer libros :books:.
+
+----
+### Puedes contactarme por: 
+
+- [Linkedin](https://www.linkedin.com/in/karoline-mogollon-/) 💼
+- [Github](https://github.com/Karomogo26) :computer:
+
+----
+#### Comandos de la Terminal
+
+| Comando | Descripción |
+| ---------- | ---------- |
+| mkdir  | creación de carpetas  |
+| whoami  | Nombre del usuario  |
+| ls  | Listar archivos de la ubicación actual  |
+| Date  | Fecha y hora actuales  |
+| pwd  | Ruta absoluta del directorio actual  |
+
+#### Comandos Alias
+ Alias | Descripción |
+| ---------- | ---------- 
+| cl  | Limpiar pantalla
+| ls  | lista  |
+
