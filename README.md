@@ -4,7 +4,7 @@
 
 Actualmente empecé el ✨ _Bootcamp de JavaScrip Full-Stack_ ✨ en [Undefined Academy](https://github.com/undefined-academy), también me dedico a profundizar mi conocimiento en los siguientes lenguajes de programación.
 
-- JavaScrip 
+- JAVASCRIP 
 - HTML
 - CSS
 
