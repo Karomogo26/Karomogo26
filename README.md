@@ -1,6 +1,6 @@
 # 👋Hola soy Karoline Mogollón :purple_heart:
 ----
-## Estudiante tecnóloga de Analisis y desarrollo de sistemas de información (ADSI) en el sena. 
+## Soy de Colombia , estudiante tecnóloga de Análisis y desarrollo de sistemas de información (ADSI) en el Sena, en etapa de prácticas.
 
 Actualmente empecé el ✨ _Bootcamp de JavaScrip Full-Stack_ ✨ en [Undefined Academy](https://github.com/undefined-academy), también me dedico a profundizar mi conocimiento en los siguientes lenguajes de programación.
 
