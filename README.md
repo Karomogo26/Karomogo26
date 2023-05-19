@@ -1,4 +1,4 @@
-# 👋Hola soy Karoline Mogollón :purple_heart:
+# 👋Hola soy Karoline Mogollón 💜
 ----
 ## Soy de Colombia , estudiante tecnóloga de Análisis y desarrollo de sistemas de información (ADSI) en el Sena, en etapa de prácticas.
 
@@ -17,7 +17,7 @@ escuchar musica :notes:, ver pelis :movie_camera:, leer libros :books:.
 ### Puedes contactarme por: 
 
 - [Linkedin](https://www.linkedin.com/in/karoline-mogollon-/) 💼
-- [Github](https://github.com/Karomogo26) :computer:
+- [Github](https://github.com/Karomogo26) 💻
 
 ----
 #### Comandos de la Terminal
