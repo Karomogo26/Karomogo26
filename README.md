@@ -7,6 +7,7 @@ Actualmente empecé el ✨ _Bootcamp de JavaScrip Full-Stack_ ✨ en [Undefined 
 - JAVASCRIP 
 - HTML
 - CSS
+  
 y apenas aprendiendo PHP.
 
 Soy una persona  autodidacta, me apasiona la **tecnología**, la **programación** y la **ciberseguridad**:sunglasses:.
