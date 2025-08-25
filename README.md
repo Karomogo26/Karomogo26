@@ -1,6 +1,6 @@
 # 👋Hola soy Karoline Mogollón 💜
 ----
-## Soy de Colombia , tecnóloga de Análisis y desarrollo de sistemas de información (ADSI) del Sena.
+## Soy de Colombia , tecnóloga en Análisis y desarrollo de sistemas de información (ADSI) del Sena.
 
 Actualmente me dedico a profundizar mis conocimientos en lenguajes de programación como:
 
