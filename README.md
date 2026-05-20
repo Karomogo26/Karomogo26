@@ -6,7 +6,7 @@ Actualmente me dedico a profundizar mis conocimientos en lenguajes de programaci
 
 - JAVASCRIP 
 - PHP
-y algunos frameworks como laravell y react.
+y algunos frameworks como laravel.
 
 También estoy aprendiendo algo de Seguridad Informática.
 
